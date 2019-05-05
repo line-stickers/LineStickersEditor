@@ -24,7 +24,7 @@ Then follow these instructions:
 
 ### -Uploads-
 
-Send the JSON files to [Line Request Bot](t.me/linerequestsbot), we will make sure you did all the process correctly checking all files every Sunday and Monday. 
+Send the JSON files to [Line Request Bot](https://t.me/linerequestsbot/), we will make sure you did all the process correctly checking all files every Sunday and Monday. 
 
 P.S: Please, don't send the same file several times to the bot or start being pushy, there's people behind that have to reply manually each time, sending the same file won't make us reply faster.
 
